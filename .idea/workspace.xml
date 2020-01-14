@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="966d3c5b-bbbc-429d-97ab-f1bb461d1df1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/magento-wp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/magento-wp/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/magento-wp/img/contact_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/magento-wp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/magento-wp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/magento-wp/page-home.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/magento-wp/page-home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/magento-wp/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/magento-wp/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nav_link1</find>
+      <find>about_i</find>
+      <find>nav_links</find>
+      <find>a</find>
+      <find>a{</find>
+      <find>+</find>
+      <find>footer_link</find>
+      <find>icon</find>
+      <find>body</find>
+      <find>background01</find>
+      <find>icon02</find>
+      <find>menu_kn</find>
+      <find>.web</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/themes/magento-wp" />
+  </component>
+  <component name="ProjectId" id="1WLCGgNgHUo6muhNEvzM8iLjjeC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../school /Multiversum" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="966d3c5b-bbbc-429d-97ab-f1bb461d1df1" name="Default Changelist" comment="" />
+      <created>1537863138320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537863138320</updated>
+      <workItem from="1537863139538" duration="8688000" />
+      <workItem from="1537871911672" duration="22000" />
+      <workItem from="1537871935059" duration="5185000" />
+      <workItem from="1537877784626" duration="2300000" />
+      <workItem from="1537949674526" duration="25677000" />
+      <workItem from="1538034045485" duration="15375000" />
+      <workItem from="1538070682928" duration="132000" />
+      <workItem from="1538123824501" duration="79000" />
+      <workItem from="1538818380010" duration="44000" />
+      <workItem from="1538986053331" duration="43000" />
+      <workItem from="1578919395136" duration="479000" />
+    </task>
+    <task id="LOCAL-00001" summary="12:37">
+      <created>1537871848197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537871848197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="einde van de dag">
+      <created>1537880058669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537880058669</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wordpress af">
+      <created>1537971060997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537971060997</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" wordpress af met img src">
+      <created>1537973943216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537973943216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="magento wordpress af">
+      <created>1537974905714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537974905714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="magento wordpress af">
+      <created>1537977141627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537977141627</updated>
+    </task>
+    <task id="LOCAL-00007" summary="begin pakket">
+      <created>1537977179928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537977179928</updated>
+    </task>
+    <task id="LOCAL-00008" summary="12:14 home post af">
+      <created>1538043266275</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538043266275</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12:37" />
+    <MESSAGE value="einde van de dag" />
+    <MESSAGE value="wordpress af" />
+    <MESSAGE value=" wordpress af met img src" />
+    <MESSAGE value="magento wordpress af" />
+    <MESSAGE value="begin pakket" />
+    <MESSAGE value="12:14 home post af" />
+    <option name="LAST_COMMIT_MESSAGE" value="12:14 home post af" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="278" width="424" height="482" key="FileChooserDialogImpl" timestamp="1578919871906">
+      <screen x="0" y="0" width="1920" height="1043" />
+    </state>
+    <state x="743" y="278" width="424" height="482" key="FileChooserDialogImpl/0.0.1920.1043@0.0.1920.1043" timestamp="1578919871906" />
+  </component>
+</project>
